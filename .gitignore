@@ -2,3 +2,52 @@
 homework/.ipynb_checkpoints/Test-checkpoint.ipynb
 *.csv
 *.gz
+homework/data/data-science-london-scikit-learn/data-science-london-scikit-learn.zip
+homework/data/mid-term competition/2020-ML100marathon_midterm_guide.docx
+homework/data/mid-term competition/enron61702insiderpay.pdf
+homework/data/mid-term competition/ml100.zip
+homework/.ipynb_checkpoints/Day_057_hierarchical_clustering_sample-checkpoint.ipynb
+homework/Day_057_hierarchical_clustering_sample.ipynb
+homework/.ipynb_checkpoints/Day_059_TEST-checkpoint.ipynb
+homework/Day_059_TEST.ipynb
+homework/Day_062_tsne_Ans.ipynb
+深度學習補充教材.pdf
+Course PDF/1. 機器學習概論/Day1. 資料介紹與評估資料.pdf
+Course PDF/1. 機器學習概論/Day2. 機器學習概論.pdf
+Course PDF/1. 機器學習概論/Day3. 機器學習-流程與步驟.pdf
+Course PDF/1. 機器學習概論/Day4. EDA-讀取資料與分析流程.pdf
+Course PDF/2. 資料清理數據前處理/Day10. 數值型特徵 - 去除離群值.pdf
+Course PDF/2. 資料清理數據前處理/Day11. 常用的數值取代-中位數與分位數連續數值標準化.pdf
+Course PDF/2. 資料清理數據前處理/Day12. 數值型特徵-補缺失值與標準化.pdf
+Course PDF/2. 資料清理數據前處理/Day13. 常用的 DataFrame 操作.pdf
+Course PDF/2. 資料清理數據前處理/Day14. 程式實作EDA-相關係數簡介.pdf
+Course PDF/2. 資料清理數據前處理/Day15. 程式實作EDA-相關係數實作.pdf
+Course PDF/2. 資料清理數據前處理/Day16. EDA-檢視不同數值範圍間特徵&繪圖與樣式Kernel Density Estimation (KDE).pdf
+Course PDF/2. 資料清理數據前處理/Day17. EDA-把連續型變數離散化.pdf
+Course PDF/2. 資料清理數據前處理/Day18. EDA程式實作-把連續型變數離散化.pdf
+Course PDF/2. 資料清理數據前處理/Day19. Subplots.pdf
+Course PDF/2. 資料清理數據前處理/Day20. Heatmap & Grid-plot.pdf
+Course PDF/2. 資料清理數據前處理/Day21. 模型初體驗 Logistic Regression.pdf
+Course PDF/2. 資料清理數據前處理/Day5. dataframe建立與資料讀取(非 csv 的資料).pdf
+Course PDF/2. 資料清理數據前處理/Day6. EDA-欄位的資料類型介紹及處理.pdf
+Course PDF/2. 資料清理數據前處理/Day7. 特徵類型.pdf
+Course PDF/2. 資料清理數據前處理/Day8. EDA-資料分佈.pdf
+Course PDF/2. 資料清理數據前處理/Day9. EDA-Outlier 及處理.pdf
+Course PDF/3. 資料科學特徵工程技術/Day22. 特徵工程簡介.pdf
+Course PDF/3. 資料科學特徵工程技術/Day23. 數值型特徵-去除偏態.pdf
+Course PDF/3. 資料科學特徵工程技術/Day24. 數值型特徵-基礎處理.pdf
+Course PDF/3. 資料科學特徵工程技術/Day25. 數值型特徵-均值編碼.pdf
+Course PDF/3. 資料科學特徵工程技術/Day26. 數值型特徵-其他進階處理.pdf
+Course PDF/3. 資料科學特徵工程技術/Day27. 時間型特徵.pdf
+Course PDF/3. 資料科學特徵工程技術/Day28. 特徵組合-數值與數值組合.pdf
+Course PDF/3. 資料科學特徵工程技術/Day29. 特徵組合-類別與數值組合.pdf
+Course PDF/3. 資料科學特徵工程技術/Day30. 特徵選擇.pdf
+Course PDF/3. 資料科學特徵工程技術/Day31. 特徵評估.pdf
+Course PDF/3. 資料科學特徵工程技術/Day32. 分類型特徵優化-葉編碼.pdf
+Course PDF/Day64. 深度學習體驗模型調整與學習曲線.pdf
+homework/img/Day_064_HW.PNG
+homework/img/Day_065_HW.PNG
+Course PDF/Day65. 深度學習體驗-啟動函數與正規化.pdf
+Course PDF/Day66. Keras 安裝與介紹.pdf
+homework/img/Day_066_Handout1.PNG
+Course PDF/Day67. Keras Dataset.pdf
