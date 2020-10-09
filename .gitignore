@@ -51,3 +51,66 @@ Course PDF/Day65. 深度學習體驗-啟動函數與正規化.pdf
 Course PDF/Day66. Keras 安裝與介紹.pdf
 homework/img/Day_066_Handout1.PNG
 Course PDF/Day67. Keras Dataset.pdf
+Course PDF/4. 機器學習基礎模型建立/Day33. 機器學習簡介.pdf
+Course PDF/4. 機器學習基礎模型建立/Day34. 訓練&測試集切分的概念.pdf
+Course PDF/4. 機器學習基礎模型建立/Day35. Regression vs. Classification.pdf
+Course PDF/4. 機器學習基礎模型建立/Day36. 評估指標選定(evaluation metrics).pdf
+Course PDF/4. 機器學習基礎模型建立/Day37. Regression model 介紹 - Linear Reg&Logistic Reg.pdf
+Course PDF/4. 機器學習基礎模型建立/Day38. Regression model 介紹 - Linear Reg&Logistic Reg程式碼.pdf
+Course PDF/4. 機器學習基礎模型建立/Day39. Regression model 介紹 - LASSO迴歸& Ridge迴歸.pdf
+Course PDF/4. 機器學習基礎模型建立/Day40. Regression model 介紹 - LASSO迴歸& Ridge迴歸程式碼.pdf
+Course PDF/4. 機器學習基礎模型建立/Day41. Tree based model - 決策樹 (Decision Tree) 模型介紹.pdf
+Course PDF/4. 機器學習基礎模型建立/Day42. Tree based model - 決策樹程式碼撰寫.pdf
+Course PDF/4. 機器學習基礎模型建立/Day43. Tree based model - 隨機森林 (Random Forest) 介紹.pdf
+Course PDF/4. 機器學習基礎模型建立/Day44. Tree based model - 隨機森林程式碼撰寫.pdf
+Course PDF/4. 機器學習基礎模型建立/Day45. Tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹.pdf
+Course PDF/4. 機器學習基礎模型建立/Day46. Tree based model - 梯度提升機程式碼撰寫.pdf
+Course PDF/5. 機器學習調整參數/Day47. 超參數(Hyperparameter)調整與優化.pdf
+Course PDF/5. 機器學習調整參數/Day48. Kaggle 競賽平台介紹.pdf
+Course PDF/5. 機器學習調整參數/Day49. 集成方法-混合泛化(Blending).pdf
+Course PDF/5. 機器學習調整參數/Day50. 集成方法-堆疊泛化(Stacking).pdf
+Course PDF/Day68. Keras-Sequential API序列模型搭建網路.pdf
+Course PDF/Day69. Keras-Module API介紹與應用.pdf
+Course PDF/Day70. Multi-layer Perception多層感知器.pdf
+Course PDF/Day71. 損失函數的介紹與應用.pdf
+Course PDF/Day72. 啟動函數的介紹與應用.pdf
+Course PDF/Day73. 梯度下降簡介.pdf
+Course PDF/Day74. Gradient Descent 數學原理.pdf
+Course PDF/Day75. BackPropagation.pdf
+Course PDF/Day76. 優化器Optimizers簡介.pdf
+Course PDF/Day77. 訓練神經網路的細節與技巧 - Validation and overfit.pdf
+Course PDF/Day78. 訓練神經網路前的注意事項.pdf
+Course PDF/Day79. 訓練神經網路的細節與技巧 - Learning rate effect.pdf
+Course PDF/Day80. 優化器與學習率的組合與比較.pdf
+Course PDF/Day81. 訓練神經網路的細節與技巧 - Regularization.pdf
+Course PDF/Day82. 訓練神經網路的細節與技巧 - Dropout.pdf
+Course PDF/Day83. 訓練神經網路的細節與技巧 - Batch normalization.pdf
+Course PDF/Day84. 正規化&隨機移除&批次標準化的組合與比較.pdf
+Course PDF/Day85. 訓練神經網路的細節與技巧 - 使用 callbacks函數做earlystop.pdf
+Course PDF/Day86. 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model.pdf
+Course PDF/Day87. 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate.pdf
+Course PDF/Day88. 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數.pdf
+Course PDF/Day89. 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function.pdf
+homework/.ipynb_checkpoints/Day_012_HW-checkpoint.ipynb
+homework/.ipynb_checkpoints/Day_067_Keras_Dataset_Introduce-checkpoint.ipynb
+homework/.ipynb_checkpoints/Day_075_Back_Propagation-checkpoint.ipynb
+homework/.ipynb_checkpoints/Day_086_CB_ModelCheckPoint_Ans-checkpoint.ipynb
+homework/.ipynb_checkpoints/Day_087_CB_ReduceLR_HW-checkpoint.ipynb
+homework/.ipynb_checkpoints/Day_089_CustomizedLoss-checkpoint.ipynb
+homework/Day_067_Keras_Dataset_Introduce.ipynb
+homework/Day_075_Back_Propagation.ipynb
+homework/Day_076_Optimizers_advanced.ipynb
+homework/Day_079_LearningRateEffect.ipynb
+homework/Day_082_Dropout.ipynb
+homework/Day_083_BatchNorm.ipynb
+homework/Day_085_CB_EarlyStop.ipynb
+homework/Day_086_CB_ModelCheckPoint.ipynb
+homework/Day_086_CB_ModelCheckPoint_Ans.ipynb
+homework/Day_089_CustomizedLoss.ipynb
+homework/Day_090_color_histogram.ipynb
+homework/final_model.h5
+homework/saved_models/keras_cifar10_trained_model.h5
+homework/tmp.h5
+homework/.ipynb_checkpoints/Day_090_color_histogram-checkpoint.ipynb
+homework/img/cat.jpeg
+homework/Day_091_classification_with_cv.ipynb
